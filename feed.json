@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tulane Femtosecond and Terahertz Spectroscopy Laboratory",
+    "description": "",
+    "home_page_url": "https://thz-spectra.github.io",
+    "feed_url": "https://thz-spectra.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://thz-spectra.github.io/media/website/website_background1.jpg",
+    "author": {
+        "name": "Diyar Talbayev"
+    },
+    "items": [
+    ]
+}
